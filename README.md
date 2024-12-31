@@ -31,19 +31,7 @@ This experience was not only fun but also an invaluable lesson in understanding 
 
 ---
 
-## **🧩 Repository Structure**
-
-```plaintext
-📂 online-gaming-analysis
-├── 📁 assets/                # Raw dataset and generated visuals
-├── 📁 generated/             # Generated graphs and reports
-├── 📁 notebooks/             # Jupyter notebooks for analysis
-└── 📄 README.md              # Project overview and documentation
-```
-
----
-
-## **🚀 Insights & Visuals**
+## **Insights & Visuals:**
 
 ### **🌟 Global Engagement Levels**
 
