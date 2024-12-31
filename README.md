@@ -63,7 +63,6 @@ Through detailed data analysis and visuals, we'll explore whether players who sp
 
 **Takeaway:**
 - The USA dominates in-game spending, showcasing a significant market for digital transactions.
-- To validate our hypothesis, we'll explore correlations between engagement levels and spending habits.
 
 ### **⏱️ Global Playtime**
 
