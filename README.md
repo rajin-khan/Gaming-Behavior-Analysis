@@ -31,7 +31,7 @@ This experience was not only fun but also an invaluable lesson in understanding 
 
 ---
 
-## **Insights & Visuals:**
+## **🚀 Insights & Visuals**
 
 ### **🌟 Global Engagement Levels**
 
