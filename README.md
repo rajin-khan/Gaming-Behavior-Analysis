@@ -4,7 +4,6 @@
 
 # **Global Online Gaming Behaviour Analysis**
 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +16,11 @@
 
 This project was created to practice **data analysis** and **visualization** skills learned on the journey to mastering **machine learning**. Using Python and libraries such as **NumPy**, **Pandas**, and **Matplotlib**, we dived deep into global gaming behaviour to uncover trends and insights. 
 
-This experience was not only fun but also an invaluable lesson in understanding data, which forms the backbone of machine learning.
+To make this project more engaging, we aim to prove the hypothesis:
+
+### **"High engagement correlates with increased in-game spending."**
+
+Through detailed data analysis and visuals, we'll explore whether players who spend more time gaming also tend to spend more money on in-game purchases. This hypothesis is critical as it highlights the potential revenue opportunities for game developers targeting specific audiences.
 
 ---
 
@@ -52,15 +55,6 @@ This experience was not only fun but also an invaluable lesson in understanding 
 **Takeaway:**
 - Asia and the USA lead in high engagement, making them prime markets for immersive games.
 
-### **🎮 Preferred Difficulty Levels**
-
-<p align="center">
-  <img src="./generated/globaldifficulty.png" alt="Difficulty Preferences" width="500"/>
-</p>
-
-**Takeaway:**
-- Globally, most players prefer easy to medium difficulty games, aligning with gaming as a recreational activity.
-
 ### **🛒 In-Game Purchases by Region**
 
 <p align="center">
@@ -69,6 +63,7 @@ This experience was not only fun but also an invaluable lesson in understanding 
 
 **Takeaway:**
 - The USA dominates in-game spending, showcasing a significant market for digital transactions.
+- To validate our hypothesis, we'll explore correlations between engagement levels and spending habits.
 
 ### **⏱️ Global Playtime**
 
@@ -81,20 +76,24 @@ This experience was not only fun but also an invaluable lesson in understanding 
 
 ---
 
+## **📊 Hypothesis Validation**
+
+Using data correlations, we investigated the relationship between **engagement levels** and **in-game purchases**:
+
+- Players with "High Engagement" were found to contribute significantly more to in-game spending, validating our hypothesis.
+- This correlation was most evident in the USA and Europe, emphasizing the potential profitability of targeting highly engaged audiences in these regions.
+
+### **Implications for Game Developers:**
+- **Focus on Engagement:** Strategies to boost playtime and sessions can directly enhance revenue through in-game purchases.
+- **Regional Targeting:** Tailored content and marketing in the USA and Europe can maximize returns.
+
+---
+
 ## **🌟 Why It Matters**
 
 - **Data Analysis in ML:** Data analysis is foundational to machine learning. Understanding trends and insights ensures better model performance and interpretability.
 - **Visualization Skills:** Clear and impactful visuals make complex data understandable, an essential skill for ML practitioners.
-- **Fun with Learning:** Exploring real-world data makes the learning process exciting and memorable.
-
----
-
-## **📊 Project Goals**
-
-- Enhance data analysis and visualization skills.
-- Build a deeper understanding of global gaming behaviour.
-- Practice translating raw data into actionable insights.
-- Create visually appealing and informative charts to share findings.
+- **Proving Hypotheses:** Validating hypotheses through real-world data bridges the gap between theory and practical application.
 
 ---
 
@@ -108,6 +107,6 @@ This project was created by:
 
 <div align="center">
 
-###### Thank you for exploring this project!
+###### Thank you for exploring this project and helping validate our hypothesis!
 
 </div>
